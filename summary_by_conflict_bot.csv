@@ -1,0 +1,10 @@
+type,conflict_label,is_suspected_bot,n,mean_ttr,mean_tokens,pct_stereo
+comment,both,FALSE,90,0.78,150.8,22.2
+comment,both,TRUE,39,0.733,157.2,38.5
+comment,gaza_israel,FALSE,674,0.861,64.5,18.8
+comment,gaza_israel,TRUE,323,0.832,83.2,22.9
+comment,iran_usa,FALSE,231,0.873,62.8,14.3
+comment,iran_usa,TRUE,70,0.811,98.7,14.3
+comment,other,FALSE,3103,0.928,27.2,7.6
+comment,other,TRUE,833,0.907,43.1,9.2
+post,other,NA,1,0.667,30,0
