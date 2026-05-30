@@ -1,0 +1,7 @@
+conflict_label,account_type,n,mean_ttr,mean_tokens,mean_stereo_rate
+both,Bot,39,0.733,157.2,0.0078
+both,Human,90,0.78,150.8,0.0033
+gaza_israel,Bot,323,0.832,83.2,0.0059
+gaza_israel,Human,674,0.861,64.5,0.0066
+iran_usa,Bot,70,0.811,98.7,0.0029
+iran_usa,Human,231,0.873,62.8,0.0038

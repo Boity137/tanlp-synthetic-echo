@@ -1,0 +1,4 @@
+conflict_label,bot_median,human_median,p_value,significant,direction
+both,0,0,0.03639175121611166,TRUE,Humans > Bots
+gaza_israel,0,0,0.22333116362610736,FALSE,Humans > Bots
+iran_usa,0,0,0.9784199395263087,FALSE,Humans > Bots
